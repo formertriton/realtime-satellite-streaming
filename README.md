@@ -9,12 +9,19 @@ Advanced real-time streaming system for satellite telemetry processing, threat d
 This system demonstrates *enterprise-level real-time data streaming* capabilities for space operations, combining:
 
 *🔴 Real-Time Data Streaming*: Kafka-based event streaming with sub-second latency
+
 *🛰️ Satellite Telemetry Simulation*: Realistic orbital mechanics for 10+ satellites
+
 *⚡ Event-Driven Architecture*: Asynchronous processing with WebSocket updates
+
 *📊 Time-Series Database*: TimescaleDB for high-performance telemetry storage
+
 *🚨 Threat Detection*: Real-time collision detection and anomaly identification
+
 *🐳 Containerized Infrastructure*: Docker-based deployment for scalability
+
 *📡 REST API*: FastAPI with real-time WebSocket streaming
+
 *📈 Live Dashboard*: Interactive visualization of satellite positions and threats
 
 ## 🏗️ System Architecture
