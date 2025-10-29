@@ -297,7 +297,7 @@ Built to demonstrate enterprise-level real-time data streaming, distributed syst
 ## 🎯 Key Takeaways
 This project demonstrates:
 
-1. *Production-Ready Architecture*: Not just a toy project—uses industry-standard tools (Kafka, Docker, TimescaleDB)
+1. *Production-Ready Architecture*: Not just a toy project, it uses industry-standard tools (Kafka, Docker, TimescaleDB)
 2. *Real-Time Systems Expertise*: Sub-second latency streaming with fault tolerance
 3. *Distributed Systems*: Event-driven microservices architecture
 4. *Domain Knowledge*: Space operations + software engineering
