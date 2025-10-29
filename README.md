@@ -280,13 +280,12 @@ This is a portfolio project showcasing real-time streaming architecture. Feedbac
 
 ## 📄 License
 
-MIT License - See \[LICENSE](LICENSE) file for details
+MIT License - See LICENSE file for details
 
 ## 📧 Contact
 *Angelo R.* - [@formertriton]
 
-*Built to demonstrate enterprise-level real-time data streaming, distributed systems, and space domain expertise for defense and aerospace applications.
-
+Built to demonstrate enterprise-level real-time data streaming, distributed systems, and space domain expertise for defense and aerospace applications.
 
 ## 🎯 Key Takeaways
 This project demonstrates:
