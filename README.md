@@ -4,8 +4,6 @@
 
 Advanced real-time streaming system for satellite telemetry processing, threat detection, and space situational awareness. Built with production-grade infrastructure using Kafka, TimescaleDB, and FastAPI.
 
-[System Architecture]
-
 ## 🎯 Project Overview
 
 This system demonstrates *enterprise-level real-time data streaming* capabilities for space operations, combining:
